@@ -1,0 +1,811 @@
+﻿  camera.cpp
+C:\Users\cj\source\repos\MyProject\camera.cpp(3,59): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\camera.cpp(3,70): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  global.cpp
+C:\Users\cj\source\repos\MyProject\global.h(20,14): error C3646: “position”: 未知重写说明符
+  (编译源文件“global.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(20,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“global.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(29,6): error C2182: “vecNormalize”: “void” 这一使用无效
+  (编译源文件“global.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(29,19): error C2065: “Vector2D”: 未声明的标识符
+  (编译源文件“global.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(29,29): error C2065: “vec”: 未声明的标识符
+  (编译源文件“global.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(35,91): error C2061: 语法错误: 标识符“Vector2D”
+  (编译源文件“global.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.cpp(26,6): error C2365: “vecNormalize”: 重定义；以前的定义是“数据变量”
+      C:\Users\cj\source\repos\MyProject\global.h(29,6):
+      参见“vecNormalize”的声明
+  
+C:\Users\cj\source\repos\MyProject\global.cpp(27,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\global.cpp(57,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\global.cpp(58,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\cj\source\repos\MyProject\global.cpp(61,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\global.cpp(62,13): warning C4018: “<”: 有符号/无符号不匹配
+  health.cpp
+  main.cpp
+C:\Users\cj\source\repos\MyProject\global.h(20,14): error C3646: “position”: 未知重写说明符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(20,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(29,6): error C2182: “vecNormalize”: “void” 这一使用无效
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(29,19): error C2065: “Vector2D”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(29,29): error C2065: “vec”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(35,91): error C2061: 语法错误: 标识符“Vector2D”
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(30,12): error C3646: “pos”: 未知重写说明符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(30,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(36,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(37,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(44,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(45,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,4): error C2065: “Vector2D”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,13): error C2146: 语法错误: 缺少“;”(在标识符“vec”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,13): error C2065: “vec”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,21): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,27): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(51,17): error C2065: “vec”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(53,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(53,13): error C2065: “vec”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(54,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(54,13): error C2065: “vec”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(59,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(60,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(62,8): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(62,19): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(63,8): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(63,19): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(64,8): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(64,41): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(65,8): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(65,43): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(66,14): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(66,21): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(66,7): error C2660: “Camera::update”: 函数不接受 4 个参数
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\camera.h(13,7):
+      参见“Camera::update”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(66,7):
+      尝试匹配参数列表“()”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(71,30): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,36): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,43): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,62): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,71): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,8): error C2660: “checkImageCollision”: 函数不接受 2 个参数
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(37,6):
+      参见“checkImageCollision”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(75,8):
+      尝试匹配参数列表“(GamesEngineeringBase::Image, GamesEngineeringBase::Image)”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(90,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(96,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(102,12): error C3646: “vel”: 未知重写说明符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(102,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(105,12): error C3646: “pos”: 未知重写说明符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(105,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(110,14): error C2061: 语法错误: 标识符“Vector2D”
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(111,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(111,10): error C2065: “_pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(112,4): error C2065: “vel”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(112,10): error C2065: “_vel”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(113,16): error C2065: “filename”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(117,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(118,17): error C2065: “vel”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(120,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(120,13): error C2065: “vel”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(121,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(121,13): error C2065: “vel”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(125,30): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,36): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,43): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,62): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,71): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,8): error C2660: “checkImageCollision”: 函数不接受 2 个参数
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(37,6):
+      参见“checkImageCollision”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(131,8):
+      尝试匹配参数列表“(GamesEngineeringBase::Image, GamesEngineeringBase::Image)”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(137,4): error C2065: “vel”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(138,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(143,4): error C2065: “vel”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(144,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(186,36): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(186,43): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(186,49): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(206,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(207,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(208,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(209,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(210,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(219,30): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(272,12): error C3646: “pos”: 未知重写说明符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(272,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(278,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(279,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,36): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,43): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,62): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,71): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,8): error C2660: “checkImageCollision”: 函数不接受 2 个参数
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(37,6):
+      参见“checkImageCollision”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(286,8):
+      尝试匹配参数列表“(GamesEngineeringBase::Image, GamesEngineeringBase::Image)”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(292,30): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(296,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(300,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(490,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(491,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(508,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(509,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(510,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(511,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(512,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(521,48): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(534,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(552,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(588,52): error C2039: "position": 不是 "Effect" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(19,8):
+      参见“Effect”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(588,6): error C2660: “renderImg”: 函数不接受 3 个参数
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(35,6):
+      参见“renderImg”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(588,6):
+      尝试匹配参数列表“(GamesEngineeringBase::Window, GamesEngineeringBase::Image, Camera)”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(606,20): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(606,46): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“main.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,4): error C2065: “Vector2D”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,13): error C2146: 语法错误: 缺少“;”(在标识符“cp”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,13): error C2065: “cp”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,18): error C2065: “pos”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,24): error C3861: “Vector2D”: 找不到标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,24): error C1003: 错误计数超过 100；正在停止编译
+  (编译源文件“main.cpp”)
+  
+  Vector.cpp
+  world.cpp
+C:\Users\cj\source\repos\MyProject\global.h(20,14): error C3646: “position”: 未知重写说明符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(20,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(29,6): error C2182: “vecNormalize”: “void” 这一使用无效
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(29,19): error C2065: “Vector2D”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(29,29): error C2065: “vec”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.h(35,91): error C2061: 语法错误: 标识符“Vector2D”
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(30,12): error C3646: “pos”: 未知重写说明符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(30,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(36,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(37,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(44,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(45,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,4): error C2065: “Vector2D”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,13): error C2146: 语法错误: 缺少“;”(在标识符“vec”的前面)
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,13): error C2065: “vec”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,21): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(50,27): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(51,17): error C2065: “vec”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(53,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(53,13): error C2065: “vec”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(54,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(54,13): error C2065: “vec”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(59,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(60,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(62,8): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(62,19): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(63,8): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(63,19): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(64,8): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(64,41): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(65,8): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(65,43): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(66,14): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(66,21): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(66,7): error C2660: “Camera::update”: 函数不接受 4 个参数
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\camera.h(13,7):
+      参见“Camera::update”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(66,7):
+      尝试匹配参数列表“()”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(71,30): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,36): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,43): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,62): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,71): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(75,8): error C2660: “checkImageCollision”: 函数不接受 2 个参数
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(37,6):
+      参见“checkImageCollision”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(75,8):
+      尝试匹配参数列表“(GamesEngineeringBase::Image, GamesEngineeringBase::Image)”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(90,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(96,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(102,12): error C3646: “vel”: 未知重写说明符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(102,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(105,12): error C3646: “pos”: 未知重写说明符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(105,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(110,14): error C2061: 语法错误: 标识符“Vector2D”
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(111,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(111,10): error C2065: “_pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(112,4): error C2065: “vel”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(112,10): error C2065: “_vel”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(113,16): error C2065: “filename”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(117,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(118,17): error C2065: “vel”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(120,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(120,13): error C2065: “vel”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(121,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(121,13): error C2065: “vel”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(125,30): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,36): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,43): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,62): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,71): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(131,8): error C2660: “checkImageCollision”: 函数不接受 2 个参数
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(37,6):
+      参见“checkImageCollision”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(131,8):
+      尝试匹配参数列表“(GamesEngineeringBase::Image, GamesEngineeringBase::Image)”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(137,4): error C2065: “vel”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(138,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(143,4): error C2065: “vel”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(144,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(186,36): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(186,43): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(186,49): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(206,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(207,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(208,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(209,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(210,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(219,30): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(272,12): error C3646: “pos”: 未知重写说明符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(272,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(278,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(279,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,36): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,43): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,62): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,71): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(286,8): error C2660: “checkImageCollision”: 函数不接受 2 个参数
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(37,6):
+      参见“checkImageCollision”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(286,8):
+      尝试匹配参数列表“(GamesEngineeringBase::Image, GamesEngineeringBase::Image)”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(292,30): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(296,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(300,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(490,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(491,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(508,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(509,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(510,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(511,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(512,21): error C2039: "pos": 不是 "LogicBase::Projectile" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(101,8):
+      参见“LogicBase::Projectile”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(521,48): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(534,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(552,4): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(588,52): error C2039: "position": 不是 "Effect" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(19,8):
+      参见“Effect”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(588,6): error C2660: “renderImg”: 函数不接受 3 个参数
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\global.h(35,6):
+      参见“renderImg”的声明
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(588,6):
+      尝试匹配参数列表“(GamesEngineeringBase::Window, GamesEngineeringBase::Image, Camera)”时
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(606,20): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(606,46): error C2039: "pos": 不是 "LogicBase::Character" 的成员
+  (编译源文件“world.cpp”)
+      C:\Users\cj\source\repos\MyProject\LogicBase.h(23,8):
+      参见“LogicBase::Character”的声明
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,4): error C2065: “Vector2D”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,13): error C2146: 语法错误: 缺少“;”(在标识符“cp”的前面)
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,13): error C2065: “cp”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,18): error C2065: “pos”: 未声明的标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,24): error C3861: “Vector2D”: 找不到标识符
+  (编译源文件“world.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\LogicBase.h(657,24): error C1003: 错误计数超过 100；正在停止编译
+  (编译源文件“world.cpp”)
+  

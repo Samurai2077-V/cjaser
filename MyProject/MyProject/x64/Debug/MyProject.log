@@ -1,0 +1,142 @@
+﻿  global.cpp
+C:\Users\cj\source\repos\MyProject\camera.h(16,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“global.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\camera.h(17,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“global.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\global.cpp(26,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\global.cpp(52,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\global.cpp(53,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\cj\source\repos\MyProject\global.cpp(56,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\global.cpp(57,13): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+C:\Users\cj\source\repos\MyProject\camera.h(16,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\camera.h(17,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(32,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(33,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(71,74): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(71,65): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(71,46): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(71,39): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(113,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(127,74): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(127,65): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(127,46): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(127,39): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(202,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(274,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(275,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(282,74): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(282,65): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(282,46): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(282,39): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(486,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(487,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(504,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(652,61): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(652,42): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(658,69): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Run.h(658,62): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(26,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(26,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(32,67): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(32,51): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(108,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(109,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(137,26): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(138,27): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(139,25): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\Map.h(140,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\cj\source\repos\MyProject\main.cpp(60,53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(60,35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(60,19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(60,16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(62,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(62,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(63,66): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(63,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(63,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(63,22): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(100,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(100,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(101,66): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(101,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(101,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\cj\source\repos\MyProject\main.cpp(101,22): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  MyProject.vcxproj -> C:\Users\cj\source\repos\MyProject\x64\Debug\MyProject.exe
